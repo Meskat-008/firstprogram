@@ -2,8 +2,8 @@
 
 int main()
 {
-    int a = 10;
-    int b = 20;
-    printf("%d", a + b);
+    float a = 0.5;
+    float b = 0.6;
+    printf("%f", a + b);
     return 0;
 }
